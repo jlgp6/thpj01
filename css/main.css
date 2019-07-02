@@ -1,0 +1,163 @@
+/* depuis je joue avec #conteneur #recherchegoogle et #jaidelachance mais j'arrive pas a les placer facilement, je connais pas les balises je check de partout en meme temps
+
+*/
+
+header
+{
+    
+}
+.conteneur
+{
+    display: flex;
+    justify-content: flex-end;
+    background-position: 30px 50px;
+    color: #f2f2f2;
+    left: 140px;
+    margin: 100px;
+    padding: 0px;
+    width: 165px;
+    height: 38px;
+}
+
+.bonjour
+{
+    display: flex;
+    
+    color: #5F6368;
+    font-size: 13px;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: row;
+    width: 165px;
+    height: 30px;
+}
+.recherchegoogle
+{
+    font-family:
+    border: solid;
+    left: 30px;
+    display: flex;
+    font-size: 13px;
+    justify-content: center;
+    align-items: center;
+    width: 1650px;
+    height: 30px;
+}
+.jaidelachance
+{
+
+    border: solid;
+    display: flex;
+    border-radius: 10px / 5px;
+    background-color: rgb(194, 194, 194);
+    color: #5F6368;
+    font-size: 13px;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: row;
+    width: 165px;
+    height: 30px;
+}
+.test 
+{
+    display: flex;
+    justify-content: center; align-items: center;
+    margin-top: 13%;
+}
+#fuckingwebsite
+{
+    width: 272px;
+    height: 92px;
+    
+}
+/okokokkok 
+
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+    font-family: Arial, sans-serif;
+    color: #222;
+    
+}
+
+/* #footer
+{
+    display: block;
+} */
+
+a
+{
+    text-decoration:none; 
+}
+.footer a 
+{
+    color: #5f6368;
+}
+
+.footer
+{
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+}
+
+#bar
+{
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 980px;
+}
+
+.entierbar
+{
+    bottom: 0;
+    left: -10px;
+    position: absolute;
+    right: 0;
+}
+.bar
+{
+    font-size: small;
+    margin-left: -27px;
+}
+.superiorfooter
+{
+    border-bottom: 1px solid #e4e4e4;
+}
+.footerright
+{
+    margin-right: 30px;
+    float: right;
+    white-space: nowrap;
+}
+.footerleft
+{
+    margin-left: 30px;
+    white-space: nowrap;
+}
+.namecountry
+{
+    margin-left: 30px;
+    text-align: left;
+    padding-left: 27px;
+    color: rgba(0, 0, 0, .54);
+}
+
+.fr 
+{
+    padding-left: 27px;
+    margin: 0 !important;
+}
+
+.country 
+{
+    font-size: 15px;
+}
